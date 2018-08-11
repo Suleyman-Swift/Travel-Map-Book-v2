@@ -1,8 +1,8 @@
 # Travel Map Book v2
 
-Tekrar merhaba bir önceki derste öğrendiğimiz map kontorolü ve bunu coreData işleme işlemini gördük çok faydalı bir bilgi olduğu için öncelikle burdan hocama saygılarımı sunarım 
+Tekrar merhaba bir önceki derste öğrendiğimiz map kontorolü ve bunu coreData işleme işlemini gördük çok faydalı bir bilgi olduğu için öncelikle burdan hocama saygılarımı sunarım.
 
-şimdi ben bu uygulamayı aldım biraz pratik olsun diye geliştirdim ne gibi değişiklikler bizi bekliyor derseniz lütfen resimler klasörüne bakınız sizin için ss aldım.
+Şimdi ben bu uygulamayı aldım biraz pratik olsun diye geliştirdim ne gibi değişiklikler bizi bekliyor derseniz lütfen resimler klasörüne bakınız sizin için ss aldım.
 
 1. text field kaldırdım. save butonunda açıkçası önceki yazdığım uygulamanın üstünde olduğu için gizleme işemini kullandım
 sadece save butonu aktif ve gizlidir.
